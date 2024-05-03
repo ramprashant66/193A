@@ -1,0 +1,13 @@
+.tabs{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.tabs li a{
+    text-decoration: none;
+}
+
+.about-me{
+    text-decoration: none;
+}
